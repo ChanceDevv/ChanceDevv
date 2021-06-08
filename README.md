@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="460" height="300" src="https://user-images.githubusercontent.com/69983078/121249256-48fe2280-c89c-11eb-86da-cf4a25ed57e1.gif">
+    <img src="https://user-images.githubusercontent.com/69983078/121249256-48fe2280-c89c-11eb-86da-cf4a25ed57e1.gif">
 </p>
 
 - 👋 Hi, I’m Chancey
