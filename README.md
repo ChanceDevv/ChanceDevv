@@ -9,4 +9,4 @@
 - 🤗 I am working on a website all about me and my projects
 - 📫 How to reach me: If you ever need to contact me, my discord is Chancey#3548.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?chancedoescode=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chancedoescode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
