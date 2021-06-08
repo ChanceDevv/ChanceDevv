@@ -1,4 +1,7 @@
+
+<p align="center">
 ![gif](https://user-images.githubusercontent.com/69983078/121249256-48fe2280-c89c-11eb-86da-cf4a25ed57e1.gif)
+</p>
 
 - 👋 Hi, I’m Chancey
 - 👀 I’m interested in coding, theatre and online radio.
