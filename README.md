@@ -4,5 +4,7 @@
 - 🤗 I am working on a website all about me and my projects
 - 📫 How to reach me: If you ever need to contact me, my discord is Chancey#3548.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/762769712907026454)](https://discord.com/users/762769712907026454)[![Discord Bots](https://top.gg/api/widget/853605214670159893.svg)](https://top.gg/bot/853605214670159893)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/762769712907026454)](https://discord.com/users/762769712907026454)
+
+[![Discord Bots](https://top.gg/api/widget/853605214670159893.svg)](https://top.gg/bot/853605214670159893)
 
